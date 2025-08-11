@@ -15,7 +15,7 @@ We have it available as a [PDF](https://github.com/eoss-om-communitycalls/2025-0
 This worksheet is designed to help your open source project team have
 meaningful conversations about security practices. By working through these
 questions together, you'll identify potential security gaps and develop a more
-security-conscious mindset across your team.*
+security-conscious mindset across your team. [^1]
 
 **Setting aside a one to two hour conversation with your team would be a
 good start at bringing more of a security mindset.** The below worksheet can
@@ -30,7 +30,7 @@ info@orgmycology.com They can provide services to facilitate these discussions
 across larger teams and help your community build accountability frameworks
 for these topics.
 
-* _This resource was developed based on conversation with attendees at the May 22, 2025
+[^1]: _This resource was developed based on conversation with attendees at the May 22, 2025
 Chan-Zuckerberg Initiative community call for the Essential Open Source Software Program on the
 topic of Security in Open Source. Comments welcome in this document._
 
