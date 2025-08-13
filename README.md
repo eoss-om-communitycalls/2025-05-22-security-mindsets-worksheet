@@ -1,4 +1,4 @@
-# Security Mindsets For Open Source Projects Worksheet
+# Worksheet - Developing a Security Mindset for Your Open Source Project
 
 **Authors:** _Georgia Bullen, Robert P. Davey, Beth Duckles, Jonah Duckles, Eriol Fox, Kate Hertweck, Dan Sholler, David Swenson, Kirstie Whitaker_  
 
