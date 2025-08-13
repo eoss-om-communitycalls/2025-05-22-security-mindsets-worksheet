@@ -18,7 +18,7 @@ vulnerable / exposed.
 
 Comments, contributions and questions can be shared with the editorial team
 using GitHub Issues on the repository used for managing and maintaining this
-work: eoss-om-communitycalls/2025-05-22-security-mindsets-worksheet
+work: [eoss-om-communitycalls/2025-05-22-security-mindsets-worksheet](https://github.com/eoss-om-communitycalls/2025-05-22-security-mindsets-worksheet/)
 Or reach out to the team at Organizational Mycology by email at:
 info@orgmycology.com They can provide services to facilitate these discussions
 across larger teams and help your community build accountability frameworks
