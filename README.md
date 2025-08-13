@@ -4,7 +4,11 @@
 
 **Published:** August 12, 2025
 
-A worksheet to help start security discussions within your Open Source Project. While focused on Open Source, many of the topics could seed a security discussion in any type of organization. 
+A worksheet to help start security discussions within your Open Source Project. While focused on Open Source, many of the topics could seed a security discussion in any type of organization.
+
+[PDF](https://github.com/eoss-om-communitycalls/2025-05-22-security-mindsets-worksheet/blob/main/worksheet_securitymindsets.pdf) - [Google Document](https://docs.google.com/document/d/19557u1Bb81zr4cNDMamjejbLBNTdt5XzowjQ8UJiyMg/edit?tab=t.0) - [make a copy of](https://docs.google.com/document/d/19557u1Bb81zr4cNDMamjejbLBNTdt5XzowjQ8UJiyMg/copy) 
+[<img width="806" height="1152" alt="image" src="https://github.com/user-attachments/assets/3c8e1c80-6546-4547-97d0-895e45279d51" />](https://docs.google.com/document/d/19557u1Bb81zr4cNDMamjejbLBNTdt5XzowjQ8UJiyMg/edit?tab=t.0)
+
 
 # Access the Resource 
 
